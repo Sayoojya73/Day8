@@ -1,0 +1,28 @@
+.section1{
+    display: flex;
+    flex-direction: row;
+    margin-top: 3%;
+}
+.section1 .left{
+    width: 45%;
+    position: relative;
+    
+}
+.section1 .right{
+    width: 40%;
+}
+.thumbs{
+    position: absolute;
+    top: -2%;
+    left: -2%;
+    z-index: -1;
+}
+.left {
+    .twoinputs {
+        display: flex;
+        width: 100%;
+
+       
+    }
+}
+
